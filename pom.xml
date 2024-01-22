@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>ITICJobs-1</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>ITICJobs</artifactId>
+	<version>1.0</version>
 	<name>ITICJobs-1</name>
 	<description>Mare déus</description>
 	<properties>
